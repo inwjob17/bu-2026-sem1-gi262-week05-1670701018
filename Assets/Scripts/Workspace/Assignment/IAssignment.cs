@@ -6,7 +6,7 @@ namespace Assignment
 
     public interface IAssignment
     {
-        #region Lecture 
+#region Lecture 
         /// <summary>
         /// เรียงลำดับตัวเลขจากน้อยไปมากโดยใช้ Selection Sort
         /// </summary>
@@ -27,7 +27,7 @@ namespace Assignment
 
         #endregion
 
-        #region Assignment
+#region Assignment
 
         /// <summary>
         /// เรียงลำดับตัวเลขจากมากไปน้อยโดยใช้ Selection Sort
@@ -57,7 +57,7 @@ namespace Assignment
 
         #endregion
 
-        #region Extra
+#region Extra
 
         /// <summary>
         /// ค้นหาความยาวชุดตัวเลขที่เรียงลำดับติดต่อกันที่ยาวที่สุด
